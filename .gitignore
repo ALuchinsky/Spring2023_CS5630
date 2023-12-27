@@ -1,0 +1,7 @@
+notebooks/.ipynb_checkpoints/
+*.pdf
+*.html
+
+.ipynb_checkpoints/
+data/cleaned_data/*.csv
+
