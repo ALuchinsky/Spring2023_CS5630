@@ -1,0 +1,118 @@
+[paper]
+max_d = 10, min_d = 5
+-- train --
+accuracy:	0.597
+sensitivity: 	0.652
+specificity: 	0.541
+kappa:    	0.194
+-- test --
+accuracy:	0.587
+sensitivity: 	0.641
+specificity: 	0.531
+kappa:    	0.173
+
+max_d = 100, min_d = 5
+-- train --
+accuracy:	0.924
+sensitivity: 	0.927
+specificity: 	0.920
+kappa:    	0.847
+-- test--
+accuracy:	0.605
+sensitivity: 	0.637
+specificity: 	0.572
+kappa:    	0.209
+
+max_d = 100, min_d = 20
+-- train --
+accuracy:	0.801
+sensitivity: 	0.831
+specificity: 	0.771
+kappa:    	0.602
+-- test --
+accuracy:	0.614
+sensitivity: 	0.664
+specificity: 	0.563
+kappa:    	0.227
+
+max_d = 70, min_d = 30
+-- train --
+accuracy:	0.753
+sensitivity: 	0.795
+specificity: 	0.710
+kappa:    	0.506
+-- test --
+accuracy:	0.615
+sensitivity: 	0.669
+specificity: 	0.560
+kappa:    	0.229
+
+max_d = 100, min_d = 50
+-- train --
+accuracy:	0.710
+sensitivity: 	0.764
+specificity: 	0.655
+kappa:    	0.420
+
+-- test --
+accuracy:	0.616
+sensitivity: 	0.674
+specificity: 	0.556
+kappa:    	0.230
+
+[catPdDistrict]
+max_d = 10, min_d = 5
+-- train --
+accuracy:	0.596
+sensitivity: 	0.631
+specificity: 	0.560
+kappa:    	0.192
+
+-- test --
+accuracy:	0.587
+sensitivity: 	0.623
+specificity: 	0.551
+kappa:    	0.173
+
+max_d = 100, min_d = 50
+-- train --
+accuracy:	0.742
+sensitivity: 	0.774
+specificity: 	0.709
+kappa:    	0.483
+
+-- test --
+accuracy:	0.605
+sensitivity: 	0.642
+specificity: 	0.566
+kappa:    	0.208
+
+
+[catPdDistrict_strs]
+max_d = 10, min_d = 5
+-- train --
+accuracy:	0.594
+sensitivity: 	0.680
+specificity: 	0.507
+kappa:    	0.187
+
+-- test --
+accuracy:	0.592
+sensitivity: 	0.676
+specificity: 	0.507
+kappa:    	0.183
+
+max_d = 100, min_d = 50
+-- train --
+accuracy:	0.710
+sensitivity: 	0.764
+specificity: 	0.655
+kappa:    	0.419
+
+-- test --
+accuracy:	0.616
+sensitivity: 	0.674
+specificity: 	0.555
+kappa:    	0.230
+
+
